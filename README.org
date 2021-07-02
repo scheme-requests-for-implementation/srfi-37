@@ -6,6 +6,8 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=operating-system][Operating System]]
 
+library-name: args-fold
+
 This repository hosts [[https://srfi.schemers.org/srfi-37/][SRFI 37]]: args-fold: a program argument processor, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
